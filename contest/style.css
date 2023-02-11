@@ -1,0 +1,25 @@
+
+.navbar{
+    width: 100%;
+    background-color: black;
+
+}
+nav{
+    color: white;
+    padding: 20px;
+}
+button{
+    padding: 5px;
+    text-decoration:none;
+    background-color: black;
+    color: white;
+    border-radius: 4px;
+}
+a{
+    text-decoration: none;
+    color: white;
+    
+}
+.headings{
+    margin: 30px;
+}
